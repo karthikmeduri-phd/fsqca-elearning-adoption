@@ -140,7 +140,7 @@ If you use these materials in your research, please cite:
 ```bibtex
 @article{meduri2024fsqca,
   title={Uncovering Multiple Pathways to Educator Adoption of E-Learning Tools: A Configurational Analysis Using fsQCA},
-  author={Meduri, Karthik},
+  author={Nadella, Geeta Sandeep and De Queiroz, Hermano Jorge and Rana, Shaila and De La Cruz, Elyson and Meduri, Karthik and Gonaygunta, Hari},
   journal={[Journal Name]},
   year={2024},
   doi={[DOI]}
