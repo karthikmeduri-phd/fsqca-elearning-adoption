@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "fsQCA E-Learning Adoption: Replication Materials"
+version: 1.0.0
+date-released: "2024-01-01"
+url: "https://github.com/karthikmeduri-phd/fsqca-elearning-adoption"
+repository-code: "https://github.com/karthikmeduri-phd/fsqca-elearning-adoption"
+license: MIT
+abstract: "Replication materials (dataset and analysis notebook) for the paper Uncovering Multiple Pathways to Educator Adoption of E-Learning Tools: A Configurational Analysis Using fsQCA. Includes cleaned survey data (N=216), full fsQCA analysis in Python, and all reproduction instructions."
+keywords:
+  - fsQCA
+  - e-learning
+  - configurational analysis
+  - educator adoption
+  - IS-Impact model
+  - fuzzy-set qualitative comparative analysis
+  - educational technology
+authors:
+  - family-names: Meduri
+    given-names: Karthik
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "[Your Institution]"
+references:
+  - type: article
+    title: "Uncovering Multiple Pathways to Educator Adoption of E-Learning Tools: A Configurational Analysis Using fsQCA"
+    authors:
+      - family-names: Meduri
+        given-names: Karthik
+    year: 2024
+    journal: "[Journal Name]"
+    doi: "[DOI]"
