@@ -17,16 +17,31 @@ keywords:
   - fuzzy-set qualitative comparative analysis
   - educational technology
 authors:
+    - family-names: Nadella
+    given-names: Geeta Sandeep
+  - family-names: De Queiroz
+    given-names: Hermano Jorge
+  - family-names: Rana
+    given-names: Shaila
+  - family-names: De La Cruz
+    given-names: Elyson
   - family-names: Meduri
     given-names: Karthik
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-    affiliation: "[Your Institution]"
-references:
+  - family-names: Gonaygunta
+    given-names: Hariferences:
   - type: article
     title: "Uncovering Multiple Pathways to Educator Adoption of E-Learning Tools: A Configurational Analysis Using fsQCA"
     authors:
+            - family-names: Nadella
+        given-names: Geeta Sandeep
+      - family-names: De Queiroz
+        given-names: Hermano Jorge
+      - family-names: Rana
+        given-names: Shaila
+      - family-names: De La Cruz
+        given-names: Elyson
       - family-names: Meduri
         given-names: Karthik
-    year: 2024
-    journal: "[Journal Name]"
+      - family-names: Gonaygunta
+        given-names: Hariurnal: "[Journal Name]"
     doi: "[DOI]"
