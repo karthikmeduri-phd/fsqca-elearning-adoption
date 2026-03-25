@@ -12,6 +12,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Create directories
+        run: mkdir -p data notebooks
+
       - name: Download IS-Impact dataset
         run: |
           curl -L -o data/IS-Impact-Clean-DataSet-08292023.xlsx \
@@ -20,7 +23,7 @@ jobs:
       - name: Download fsQCA notebook
         run: |
           curl -L -o notebooks/fsQCA_ELearning_Adoption_Replication.ipynb \
-            'https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/143698102/1b008450-bd3e-47ae-a44b-38ff928ac672/fsQCA_ELearning_Adoption_Replication.ipynb'
+            'https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/143698102/1b008456-a8a9-4e0f-95c3-ee8ed4c1e7c1/fsQCA_ELearning_Adoption_Replication.ipynb'
 
       - name: Commit and push files
         run: |
