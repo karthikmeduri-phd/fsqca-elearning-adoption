@@ -1,0 +1,2 @@
+# This file ensures the outputs/ directory is tracked by git.
+# CSV output files (Tables 1-6) are generated at runtime by the notebook.
